@@ -4,6 +4,8 @@
 h1 {
     /* text color*/
     color: #810404;
+    font-weight: bold;
+    font-size: large;
   }
   
   /* label rules */
