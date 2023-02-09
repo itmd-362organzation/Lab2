@@ -1,0 +1,11 @@
+/* styles for questionnare */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    margin: 1rem;
+  }
+  
+  /* form reset styles */
+  form {
+    font-size: large;
+  }
